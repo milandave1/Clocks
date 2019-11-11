@@ -14,8 +14,8 @@ body {
 }
 
 .clock{
-    width: 700px;
-    height: 700px;
+    width: 600px;
+    height: 600px;
     background: rgba(255, 255, 255, 0.9);
     border-radius: 50%;
     border: 5px solid black;
@@ -44,7 +44,7 @@ body {
 .clock .number10 {--rotation: 300deg;}
 .clock .number11 {--rotation: 330deg;}
 
-.clock .hand { /* These are general settings for all the hands of the clock. Hands will be customized below */
+.clock .hand { /* These are general settings for all the hands of the clock. Hands will be customized below*/
     --rotation: 0;
     position: absolute;
     bottom: 50%;
