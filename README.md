@@ -1,2 +1,2 @@
 # Clocks
-Project to make a clock using HTML, CSS, JS. 
+Project to make an analogue clock using HTML, CSS, JS.
